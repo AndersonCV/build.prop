@@ -39,6 +39,7 @@ on:
           - volantisg
           - volantis
           - fugu
+          - Pixel 7 Pro
 
 jobs:
   onDispatch:
